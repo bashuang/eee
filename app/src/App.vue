@@ -1,7 +1,11 @@
 <template>
   <div id="app">
     这是dev分支
+<<<<<<< HEAD
     <Login></Login>
+=======
+    <router-view/>
+>>>>>>> 2bd740250cac4c35f5aa59aac37994eeb189619d
   </div>
 </template>
 <script>
